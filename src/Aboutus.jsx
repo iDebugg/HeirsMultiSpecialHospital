@@ -13,7 +13,7 @@ function Aboutus(params) {
     return(
         <div>
             <Header />
-<h3 className="aboutus-h3">Heirs Multi-Specialist Hospital is a state-of-the-art hospital set up by Dr and Dr (Mrs) Soje in 2015 to provide world-class healthcare services to Ekiti people.</h3>
+<h4 className="aboutus-h3">Heirs Multi-Specialist Hospital is a state of the art hospital set up by Dr and Dr (Mrs) Soje in 2015 to provide world class healthcare services to Ekiti people.</h4>
 <p className="aboutus-P">These are some of our facilities;</p>
 <img src={Room1} alt=""  className="aboutus-images"/>
 <img src={Room2} alt=""  className="aboutus-images"/>

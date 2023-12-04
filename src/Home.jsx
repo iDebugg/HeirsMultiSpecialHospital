@@ -34,11 +34,11 @@ function Home () {
     </Carousel>
 
    </div>
-   <div>
-    <h4 className='textAfterCarousel' data-aos="zoom-in">Welcome to Heirs Multi Specialist Hospital, Oye-Ekiti</h4>
+   <div className='textAfterCarousel' >
+    <h5 data-aos="zoom-in">Welcome to Heirs Multi Specialist Hospital, Oye-Ekiti</h5>
    </div>
    <div>
-    <h2 className='text-center'>Our Services</h2>
+    <h3 className='text-center ourServicesHeader'>Our Services</h3>
     <h5 className='text-center p-3 ourServicesText'>The inpatient and outpatient services offered by Physical Medicine and Rehabilitation are designed with a primary goal in mind: to restore function and help our patients achieve the quality of life they desire. Whether that means managing pain, learning to walk, preparing to work, or adjusting to life after illness, our team of experts work with patients and families to design an individualized treatment plan tailored to the patient’s unique needs.
 </h5>
    </div>

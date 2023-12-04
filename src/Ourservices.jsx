@@ -8,27 +8,29 @@ function Ourservices() {
         <div>
             <Header />
             
-            <div className="Ourservices-lists" data-aos="flip-left"
-                data-aos-easing="ease-out-cubic"
-                data-aos-duration="2000">
+            <div className="Ourservices-lists" data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
                     <p className="Ourservices-Paragraph" data-aos="fade-right"
                 data-aos-offset="300"
                 data-aos-easing="ease-in-sine">We offer our clients a very world class services;</p>
-                <ul>
-                    <li>Treatment of Kidney Disease</li>
-                    <li> Professional Counselling Services</li>
-                    <li>Laboratory Services with Blood Bank Facilities</li>
-                    <li>Cancer Treatment (Prostate, Breast, Intestinal)</li>
-                    <li> Heart and Cardiovascular Disease Treatment</li>
-                    <li>Computerised Tomography Scan (CT Scan)</li>
-                    <li>Radiology (Digital X-ray and Ultrasound)</li>
-                    <li>Cardiopulmonary Lab</li>
-                    <li>Obstetric and Gyneacological Services</li>
-                    <li>Dialysis Service with Peritoneal Option</li>
-                    <li>Intensive and Critical Care Services</li>
-                    <li>Trauma and Addiction Recovery Therapy</li>
-                    <li>Orthopeadic Surgery </li>
-                    <li>General and Specialised Surgery</li>
+                <ul className="contactInfoOpt">
+                    <li data-aos="fade-up" data-aos-duration="3000">Treatment of Kidney Disease</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Professional Counselling Services</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Laboratory Services with Blood Bank Facilities</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Cancer Treatment (Prostate, Breast, Intestinal)</li>
+                    <li data-aos="fade-up" data-aos-duration="3000"> Heart and Cardiovascular Disease Treatment</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Computerised Tomography Scan (CT Scan)</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Radiology (Digital X-ray and Ultrasound)</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Cardiopulmonary Lab</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Obstetric and Gyneacological Services</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Dialysis Service with Peritoneal Option</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Intensive and Critical Care Services</li>
+                    <li data-aos="fade-up" data-aos-duration="3000">Trauma and Addiction Recovery Therapy</li>
+                    <li data-aos="fade-up"
+     data-aos-duration="3000">Orthopeadic Surgery </li>
+                    <li data-aos="fade-up"
+     data-aos-duration="3000">General and Specialised Surgery</li>
 
                 </ul>
             </div>

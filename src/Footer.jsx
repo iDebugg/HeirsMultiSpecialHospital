@@ -14,8 +14,8 @@ function Footer() {
             <div className="container text-center">
             <div className="row">
                 <div className="col-md-6 col-lg-5 col-12 ft-1">
-                    <h4 className='footerheader' href="/">HEIRS MULTI SPECIALIST HOSPITAL</h4>
-                    <h6>We're about saving lives and giving hope to the living.</h6>
+                    <h4 className='footerheader'>Heirs Multi Specialist Hospital</h4>
+                    <h5 className='contactInfoOpt'>Saving lives is our priority.</h5>
                     <div className='footer-icons'>
                         <i class="fa-brands fa-square-facebook fa-xl"></i>
                        <i class="fa-brands fa-square-instagram fa-xl"></i>
@@ -28,10 +28,13 @@ function Footer() {
                 </div>
                 <div className="col-md-6 col-lg-4 col-12 ft-3">
                     <h4 className='footerheader'>Contact Info</h4>
-                    <h6><i class="fa-solid fa-phone"></i> +23407067637065</h6>
-                    <h6><i class="fa-solid fa-phone"></i> +23409165910965</h6>
-                    <h6><i class="fa-solid fa-inbox"></i> heirspecialistmd@gmail.com</h6>
+                    <span className='contactInfoOpt'>
+                    <h5><i class="fa-solid fa-phone"></i> +23407067637065</h5>
+                    <h5><i class="fa-solid fa-phone"></i> +23409165910965</h5>
+                    <h5><i class="fa-solid fa-inbox"></i> heirspecialistmd@gmail.com</h5>
                      
+                    </span>
+                   
                 </div>
                 
 

@@ -2,7 +2,7 @@ Nav.Link{
     color: blue;
 }
 .Footer{
-    background-color: rgb(99, 99, 99);
+    background-color: rgb(219,110,88);
     color: white;
    padding: 2rem 0;
 }
@@ -46,19 +46,23 @@ margin-right: 5px;
     width: fit-content;
 }
 .textAfterCarousel{
-    background-color: rgb(99, 99, 99);
+    background-color: rgb(219,110,88);
     color: white;
     text-align: center;
     padding: 0.5rem 0;
 
 }
 .ourServicesText{
-    font-family: serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 100;
 }
+.contactInfoOpt{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+}
 .Ourservices-lists{
-    background-color: rgb(160, 160, 160);
-    color: white;
+    background-color: white;
+    color: black;
     padding: 5px;
     text-align: left;
    
@@ -69,12 +73,13 @@ li{
 .Ourservices-Paragraph{
     padding: 3px;
     font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .Dr-Soje-container{
  border-style: double;
     padding: 10px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .aboutus-images{
     border-style: double;
@@ -84,19 +89,19 @@ li{
   
 }
 .aboutus-h3{
-padding: 5px;
-text-align: center;
-font-weight: 300;
+padding: 10px;
+
+font-weight: 200;
 }
 .aboutus-P{
     padding: 5px;
    font-style: italic;
 }
 .navbarlogo{
-    width: 35px;
+    width: 40px;
+    margin-right: 10px;
 }
 
-  
   /* @media screen and (min-width: 688px) {
     .Carouselimages{
         width: 688px !important;
